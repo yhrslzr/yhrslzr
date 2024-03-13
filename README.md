@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yhrslzr
-- 👀 I’m interested in Videogames, Music & Composing, Pixel Art, 2D & 3D Modeling.
-- 🌱 I’m currently learning Python, MySQL, Java, PHP, etc.
+- 👀 I’m interested in Videogames, Music, Design & Programming
+- ✨ Web Desing Pixel Art, 2D & 3D Modeling.
+- 🌱 I’m currently into Python, HTML, CSC, JS, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Just chat w/ me :)
 
