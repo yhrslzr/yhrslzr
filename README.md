@@ -2,7 +2,7 @@
 - 👀 I’m interested in Videogames, Music, Design & Programming
 - ✨ Web Design Pixel Art, 2D & 3D Modeling.
 - 🌱 I’m currently into Python, HTML, CSC, JS, etc.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creating mods on videogames.
 - 📫 How to reach me: Just chat w/ me :)
 
 <!---
